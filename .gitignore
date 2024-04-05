@@ -1,0 +1,5 @@
+venv
+db/*
+source_documents/*
+*.pyc
+__pycache__/
